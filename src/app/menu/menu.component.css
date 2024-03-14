@@ -1,0 +1,36 @@
+.container-menu{
+    background-color: #fafaf9;
+    height:100%;
+    border-right: 1px solid #c0bc79;
+}
+
+.container-items{
+    display: flex;
+    flex-direction: column;    
+    padding-top: 20%;
+}
+
+.container-links{
+    padding-left: 15%;
+    padding-top: 55%;
+}
+
+button{
+    background-color: #fafaf9;
+    border-color: transparent;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+button:hover{
+    /* background-color: #d6d168; */
+    background-color: #75a1be
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+

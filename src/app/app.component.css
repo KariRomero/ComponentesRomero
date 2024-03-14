@@ -1,0 +1,8 @@
+.main{
+    height: 100hv;
+}
+
+.grid-layout{
+    display: grid;
+    grid-template-columns: 25% 75%;
+}

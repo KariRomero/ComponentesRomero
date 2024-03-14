@@ -1,0 +1,31 @@
+.container-content{
+    background-color: #fafaf9;
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+}
+
+.content{
+    display: flex;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 5%;
+    padding-left: 5%;    
+    background-color: #fafaf9;
+}
+
+.image {
+    border-radius: 100%;
+    background-color: #f7dea8;
+    box-shadow: 0px 2px 4px #929292;
+    transition: transform 0.3s ease;
+}
+
+.image:hover {
+    transform: scale(1.1);
+}
+
+
+.text-content{
+    margin-left: 5%;
+}
